@@ -1,0 +1,36 @@
+body {
+    background-color: #fff;
+}
+
+
+h1 {
+text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.text-block{
+width: 500px;
+height: 150px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+margin: auto;
+}
+
+.block-1{
+    width: 100px;
+    height: 100px;
+    margin-left: 150px;
+    border: solid
+}
+
+.p-1 {
+margin-top: 32px;
+}
+
+
+img {
+    width: 400px;
+    font-size: larger;
+}
